@@ -1,0 +1,3 @@
+Research into context-aware application development actually pre-dates the vision of Ambient Intelligence and, since its introduction as a particular domain of information systems, many advances in modelling and management of contextual information have been put forth by the research community. 
+Besides the existing academic interest, there is an observable growth of industry engagement into the Ambient Intelligence application development scene. 
+The most notable examples of this trend are in activity areas such as home monitoring and automation, smart city sensing and monitoring infrastructures or Internet-of-Things related scenarios.

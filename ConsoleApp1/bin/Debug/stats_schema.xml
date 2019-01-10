@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Table1" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Words" type="xs:string" minOccurs="0" />
+              <xs:element name="Delta_x0020_Time" type="xs:double" minOccurs="0" />
+              <xs:element name="Word_x0020_Size" type="xs:double" minOccurs="0" />
+              <xs:element name="Backspace_x0020_Used" type="xs:double" minOccurs="0" />
+              <xs:element name="Positive" type="xs:double" minOccurs="0" />
+              <xs:element name="Negative" type="xs:double" minOccurs="0" />
+              <xs:element name="Anger" type="xs:double" minOccurs="0" />
+              <xs:element name="Anticipation" type="xs:double" minOccurs="0" />
+              <xs:element name="Disgust" type="xs:double" minOccurs="0" />
+              <xs:element name="Fear" type="xs:double" minOccurs="0" />
+              <xs:element name="Joy" type="xs:double" minOccurs="0" />
+              <xs:element name="Sadness" type="xs:double" minOccurs="0" />
+              <xs:element name="Surprise" type="xs:double" minOccurs="0" />
+              <xs:element name="Trust" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Syn.WordNet.dll
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\bin\Debug\StemmersNet.dll
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\bin\Debug\Syn.WordNet.dll
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.csproj.CoreCompileInputs.cache
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.csproj.GenerateResource.Cache
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.Form.resources
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\bin\Debug\SentimentAnalysis.exe.config
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\bin\Debug\SentimentAnalysis.exe
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\bin\Debug\SentimentAnalysis.pdb
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.exe
+D:\School\Mestrado\AmI_Intel Ambiente\TP2\TP2_Sentiment\ConsoleApp1\obj\Debug\SentimentAnalysis.pdb
